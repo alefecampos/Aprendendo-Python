@@ -1,5 +1,4 @@
-import asyncio
-
+#tipos primitivos em Python
 n = input('digite algo: ')
 print('O tipo primitivo desse valor é ', type(n))
 print('Só tem espaços? {}'.format(n.isspace()))
